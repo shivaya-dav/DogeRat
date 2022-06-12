@@ -28,6 +28,9 @@ A multifunctional Telegram based Android RAT  without port forwarding.
     - Auto Starts on restarting the device
     
  - No port forwarding needed
+ - 
+### ❤️Thank you Supporters❤️
+[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/shivaya-dav/DogeRat)](https://github.com/shivaya-dav/DogeRat/stargazers)
 
 ## Requirements
  - Glitch Account
