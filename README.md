@@ -96,7 +96,6 @@ A multifunctional Telegram based Android RAT  without port forwarding.
 
 Devolper Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
 Dogerat is built for both Educational and Internal use ONLY.
-Beware from scam
 - Make sure the instagram username is @shvaya.dav and Telegram shivaya_dav beware from scam
 
 
