@@ -66,7 +66,7 @@ A multifunctional Telegram based Android RAT  without port forwarding.
 ```bash
   { 
   "host": "https://https://xxxx.glitch.me/", 
-  "socket": "wss://https://xxxx.glitch.me/", 
+  "socket": "wss://xxxx.glitch.me/", 
   "webView": "https://google.com/" 
 }
 ```
