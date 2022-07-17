@@ -8,7 +8,7 @@
 #                     DOGERAT
 
 A multifunctional Telegram based Android RAT  without port forwarding.
-VIDEO TUTORIALS AND NEW UPDATES AVIALBLE HERE
+- VIDEO TUTORIALS AND NEW UPDATES AVIALBLE HERE
 https://shivaya-dav.github.io/dogeweb/
 ## Features
 
