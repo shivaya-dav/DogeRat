@@ -1,14 +1,15 @@
 ![Logo](https://999xprofit.com/dogs/logo.png)
 
 [![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/shivayadavv)
-
 [![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/shivaya.dav)
 
 #                     DOGERAT
 
 A multifunctional Telegram based Android RAT  without port forwarding.
-- VIDEO TUTORIALS AND NEW UPDATES AVIALBLE HERE
+- VIDEO TUTORIALS  AVIALBLE HERE
 https://shivaya-dav.github.io/dogeweb/
+## Panel Screenshot
+![Logo](https://999xprofit.com/dogs/scr.jpg)
 ## Features
  - 🔴 Real time
 - 🌐 custom web view
