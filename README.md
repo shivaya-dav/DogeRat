@@ -40,7 +40,7 @@ https://shivaya-dav.github.io/dogeweb/
 
 
 
-I will setup everything after purchase you don't need to do anything ❤️😁
+NOTE : USE APK V1 AND V2 WITH OLD SERVER CODE
 
 ## How to use
 - Search  BotFather on Telegram
