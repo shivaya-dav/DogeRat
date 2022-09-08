@@ -73,7 +73,7 @@ NOTE : USE APK V1 AND V2 WITH OLD SERVER CODE
 - paste your glitch url 
 ```bash  
   { 
-  "host": "https://https://xxxx.glitch.me/", 
+  "host": "https://xxxx.glitch.me/", 
   "socket": "wss://xxxx.glitch.me/", 
   "webView": "https://google.com/" 
 }
