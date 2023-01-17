@@ -1,7 +1,7 @@
 ![Logo](https://999xprofit.com/dogs/logo.png)
 
-[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/shivayadavv)
-[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/shivaya.dav)
+[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/CyberShieldX)
+[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/CyberShieldX)
 
 #                     DOGERAT
 
@@ -95,9 +95,8 @@ NOTE : USE APK V1 AND V2 WITH OLD SERVER CODE
 ### ❤️Thank you Supporters❤️
 [![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/shivaya-dav/DogeRat)](https://github.com/shivaya-dav/DogeRat/stargazers)
 ## 🔗 CONTACT
-[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/shivayadavv)
-
-[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/shivaya.dav)
+[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/CyberShieldX)
+[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/CyberShieldX)
 
 
 ## Disclaimer
