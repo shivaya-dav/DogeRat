@@ -15,6 +15,6 @@ echo -e "\e[0m"
 echo "Author: shivayadv"
 echo "Github: shivaya-dav"
 echo "Telegram channel: cybershieldx"
-read -p "Enter your Telegram username: " sphanter
+read -p "Enter your Telegram username: " telegram_username
 sed -i "0,/telegram_username/s//${telegram_username}/" port.sh
 ssh -R ${telegram_username}:80:localhost:8999 -o GatewayPorts=no serveo.net
