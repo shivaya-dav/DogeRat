@@ -70,5 +70,5 @@ read -p "Enter your bot token: " token
 read -p "Enter your chat ID: " id
 sed -i "s/const token = 'your token here'/const token = '$token'/g" server.js
 sed -i "s/const id = 'chat id here'/const id = '$id'/g" server.js
+echo "Server uploaded successfully! Now open new tab and follow rest instructions"
 node server.js
-echo "Server uploaded successfully!"
