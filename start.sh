@@ -71,4 +71,4 @@ read -p "Enter your chat ID: " id
 sed -i "s/const token = 'your token here'/const token = '$token'/g" index.js
 sed -i "s/const id = 'chat id here'/const id = '$id'/g" index.js
 echo "Server uploaded successfully! Now open new tab and follow rest instructions"
-node server.js
+node index.js
