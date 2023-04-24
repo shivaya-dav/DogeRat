@@ -149,7 +149,7 @@ fun getAppData(): AppData {
   <a href="https://twitter.com/CyberShieldX">
     <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCIQVMD1wD0M02V2JbVP_KrA">
+  <a href="https://www.youtube.com/@sphanter/about">
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
