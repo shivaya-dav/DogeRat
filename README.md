@@ -106,6 +106,37 @@ Copy url and minimize the termux
 }
 ```
 
+# How to Build in Android Studio
+
+To build the application in Android Studio, follow these steps:
+
+1. Open the Android Studio and import the application source code.
+2. Navigate to the following path in the source code: `Utils/AppTools.kt`.
+3. In the `AppTools.kt` file, locate the `data` variable and copy your server information into it.
+4. However, before copying the server information directly into the variable, you must encode it using Base64.
+5. Here is an example JSON structure for your server information:
+
+{
+"host" : "",
+"socket" : "",
+"webView" : "https://www.google.com"
+}
+
+
+6. Fill in the above JSON structure with your server information.
+7. Go to https://www.base64encode.org/ and copy the encoded result of your JSON data.
+8. In Android Studio, paste the encoded result into the `data` variable.
+9. The final code should look like this:
+
+```kotlin
+fun getAppData(): AppData {
+    val data = "<your encoded server info>"
+    val text = decode(data)
+    return Gson().fromJson(text, AppData::class.java)
+}
+
+  Build your application and run it on your Android device.
+
 
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
 
