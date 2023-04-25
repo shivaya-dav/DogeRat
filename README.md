@@ -178,26 +178,37 @@ fun getAppData(): AppData {
 
 
 
-<h2 align="center">🍻  Support 🍻</h2>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
-  </a>
+<h1 align="center">Sponsorship</h1>
+
+<p align="center">If you find my work valuable, you can show your support by sponsoring me. 
+  Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/shivayadav"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
 </p>
 
-<p align="center">Support this project with cryptocurrency:</p>
+<h2 align="center">Cryptocurrency Donations</h2>
+
+<p align="center">If you prefer to donate using cryptocurrency, you can use the following wallet addresses:</p>
 
 <p align="center">
-  Bitcoin: 1LeLwYyDHu51875aenZaNcEnMrEbHwEKJd<br>
-  USDT TRC20: TWX456AoupoYKwCYUKk3ZMWJtNJZRRHnrp
+  Bitcoin: <code>1LeLwYyDHu51875aenZaNcEnMrEbHwEKJd</code> <br>
+  USDT TRC20: <code>TWX456AoupoYKwCYUKk3ZMWJtNJZRRHnrp</code>
 </p>
 
 
-<h3 align="center">❤️ Thank you Supporters ❤️</h3>
 
-<p align="center">
+
+<p align="center">Thank you to the following people for their support:</p>
+
+<div align="center">
   <a href="https://github.com/shivaya-dav/DogeRat/stargazers">
-    <img src="https://img.shields.io/github/stars/shivaya-dav/DogeRat?style=for-the-badge&color=yellow" alt="Stargazers repo roster on GitHub"/>
+    <img src="https://reporoster.com/stars/dark/shivaya-dav/DogeRat" alt="Stargazers" title="Stargazers" width="400" height="auto">
   </a>
-</p>
+  
+  <a href="https://github.com/shivaya-dav/DogeRat/network/members">
+    <img src="https://reporoster.com/forks/dark/shivaya-dav/DogeRat" alt="Forkers" title="Forkers" width="400" height="auto">
+  </a>
+</div>
