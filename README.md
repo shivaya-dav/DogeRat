@@ -189,14 +189,6 @@ fun getAppData(): AppData {
   <a href="https://www.buymeacoffee.com/shivayadav"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
 </p>
 
-<h2 align="center">Cryptocurrency Donations</h2>
-
-<p align="center">If you prefer to donate using cryptocurrency, you can use the following wallet addresses:</p>
-
-<p align="center">
-  Bitcoin: <code>1LeLwYyDHu51875aenZaNcEnMrEbHwEKJd</code> <br>
-  USDT TRC20: <code>TWX456AoupoYKwCYUKk3ZMWJtNJZRRHnrp</code>
-</p>
 
 
 
