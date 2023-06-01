@@ -10,7 +10,6 @@
   <img src="https://dogelina.com/dogs/scr.jpg" alt="Logo" />
 </p>
 
-
 ## Features
 - 🔴 Real time
 - 🌐 custom web view
@@ -35,10 +34,6 @@
 - ✨ Beautiful telegram bot interface
 -🤖 Undetectable by antivirus
 
-
-
-
-  
   -------------------------
 <h2>Requirements</h2>
 <ul>
