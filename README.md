@@ -37,28 +37,7 @@
 
 
 
-<h2 align="center"> ✨ WE ARE SELLING DOGERAT PREMIUM  VERSION ✨ </h2>
-<h5 align="center">♦️ MORE POWERFULL- MORE STABLE -MORE FEATURES ♦️</h5>
 
-- 🕉️ DogeRat Premium Subscription Available 🕉️
-- ⭐️ New Features ⭐️
-- 🕉️ Screenshot
-- 🕉️ Keylogger
-- 🕉️ Gallery
-- 🕉️ Clipboard
-- 🕉️New File Manager 
--------------------------
-- And many features,check in video 
-- 🕉️ New features Added
-- 🕉️ Bug fixed
-- 🕉️ Persistence (work after removing from background or restarting the phone
-- 🕉️ Smooth connection client to Bot
-- 🕉️ We provide full setup, you don't need to do anything
-
- <p align="center">
-  <a href="https://t.me/shivaya_dav/">
-    <img src="https://img.shields.io/badge/📹%20BUY%20NOW-brightgreen?style=for-the-badge" alt="♦️ BUY NOW ♦️" />
-  </a>
   
   -------------------------
 <h2>Requirements</h2>
