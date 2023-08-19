@@ -32,9 +32,29 @@
 - ✅️ auto start after device boot
 - 🔐 Keylogger {Availbe in apk v1 and v2}
 - ✨ Beautiful telegram bot interface
--🤖 Undetectable by antivirus
-
-  -------------------------
+- -🤖 Undetectable by antivirus
+  ## DOGE RAT PAID VERSION FEATURES
+  🔐 Open any phising page in victim device
+- 🖥️ Screenshot (get screenshot from your victim device)
+- 📒 Gallery puller (Get all photos available in gallery)
+- 🔔 notification reader
+- 🔔 notification sender (send custom notification that apper on target device with custom click link)
+- 🗨️ show toast message on target device (Toasts are messages that appear in a box at the bottom of the device)
+-  🔤 Advance Keylogger
+-  📁 PowerFull file manager {delete and Download Files}
+- ✨ Beautiful telegram bot interface
+- 🤖 Undetectable by antivirus
+  <p align="center">
+  <a href="https://t.me/shivaya-dav">
+    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="https://t.me/shivaya-dav">
+    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="https://t.me/shivaya-dav">
+    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  </p>
 <h2>Requirements</h2>
 <ul>
   <li><span style="color: #0074D9;">APK EDITOR</span></li>
