@@ -45,13 +45,13 @@
 - ✨ Beautiful telegram bot interface
 - 🤖 Undetectable by antivirus
   <p align="center">
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya-dav">
+  <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   </p>
