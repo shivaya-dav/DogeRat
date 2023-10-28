@@ -1,4 +1,4 @@
-![Logo](https://dogelina.com/dogs/logo.png)
+![Logo](https://wigmur.com/dogs/logo.png)
 <p align="center">
   <i>A multifunctional Telegram based Android RAT without port forwarding</i>
 </p>
@@ -7,7 +7,7 @@
 
 <h2 align="center">Panel Screenshot</h2>
 <p align="center">
-  <img src="https://dogelina.com/dogs/scr.jpg" alt="Logo" />
+  <img src="https://wigmur.com/dogs/scr.jpg" alt="Logo" />
 </p>
 
 ## Features
