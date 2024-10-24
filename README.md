@@ -3,7 +3,7 @@
 
 </p>
 <p align="center">
-  <i>A multifunctional Telegram based Android RAT without port forwarding</i>
+  <i>A multifunctional Telegram based Android RA without port forwarding</i>
 </p>
 
 
