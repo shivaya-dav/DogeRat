@@ -55,13 +55,13 @@
 - 🤖 Undetectable by antivirus
 - 🤖and more ......
   <p align="center">
-  <a href="https://t.me/sPHANTER">
+  <a href="https://t.me/+PWHdkfykma1lMTE1">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/sPHANTER">
+  <a href="https://t.me/+PWHdkfykma1lMTE1">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/sPHANTER">
+  <a href="https://t.me/+PWHdkfykma1lMTE1">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   </p>
@@ -77,7 +77,7 @@
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
   </ul>
   <p align="center">
-  <a href="https://T.ME/CYBERSHIELDX/">
+  <a href="https://t.me/+PWHdkfykma1lMTE1">
     <img src="https://img.shields.io/badge/📹%20VIDEO%20TUTORIALS%20AVAILABLE%20HERE-blue?style=for-the-badge" alt="Video Tutorials Available Here" />
   </a>
 </p>
@@ -141,16 +141,16 @@
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
 
 <p align="center">
-  <a href="https://t.me/CyberShieldX">
+  <a href="https://t.me/+PWHdkfykma1lMTE1">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://instagram.com/CyberShieldX">
+  <a href=https://t.me/+PWHdkfykma1lMTE1>
     <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/CyberShieldX">
+  <a href="https://t.me/+PWHdkfykma1lMTE1>
     <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.youtube.com/@sphanter/about">
+  <a href=https://t.me/+PWHdkfykma1lMTE1>
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
