@@ -141,16 +141,16 @@
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
 
 <p align="center">
-  <a href="https://t.me/+PWHdkfykma1lMTE1">
+  <a href="https://t.me/sphanter">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href=https://t.me/+PWHdkfykma1lMTE1>
+  <a href=https://t.me/sphanter>
     <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
-  <a href="https://t.me/+PWHdkfykma1lMTE1>
+  <a href="https://t.me/sphanter>
     <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
   </a>
-  <a href=https://t.me/+PWHdkfykma1lMTE1>
+  <a href=https://t.me/sphanter>
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
